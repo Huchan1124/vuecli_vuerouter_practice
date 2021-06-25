@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/test/dist/'
+  publicPath: '/vuecli_vuerouter_practice/dist/'
 }
